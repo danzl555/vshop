@@ -37,7 +37,7 @@
 }
 
 .close-btn:hover {
-  opacity: 0.5;
+  color: red;
 }
 
 .total-checkout {
