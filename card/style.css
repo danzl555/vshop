@@ -90,5 +90,5 @@ body {
 }
 
 .buy-button:hover {
-    background-color: #1ae100;
+    opacity: 0.9;
 }

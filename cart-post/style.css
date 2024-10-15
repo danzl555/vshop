@@ -37,7 +37,7 @@
 }
 
 .close-btn:hover {
-  color: red;
+  opacity: 0.5;
 }
 
 .total-checkout {
@@ -68,7 +68,7 @@
 }
 
 .checkout-btn:hover {
-  background-color: #00ff44;
+  opacity: 0.9;
 }
 
 .footer {
